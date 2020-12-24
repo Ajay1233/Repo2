@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 20B3-5F50
+
+ Directory of C:\Users\ajsh\Desktop\Myproject
+
+12/24/2020  04:50 PM    <DIR>          .
+12/24/2020  04:50 PM    <DIR>          ..
+12/24/2020  04:50 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  50,973,163,520 bytes free
